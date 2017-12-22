@@ -1,0 +1,26 @@
+Ashton Schmidt
+u0958054
+3/29/17
+2420
+Assignment 8: List_2420: README 
+Ashton Schmidt
+I pledge that the work done here was my own and that I have learned how to write
+this program (such that I could throw it out and restart and finish it in a timely
+manner).  I am not turning in any work that I cannot understand, describe, or
+recreate.  Any sources (e.g., web sites) other than the lecture that I used to
+help write the code are cited in my work.  When working with a partner, I have
+contributed an equal share and understand all the submitted work.  Further, I have
+helped write all the code assigned as pair-programming and reviewed all code that
+was written separately. (Ashton Schmidt)
+
+
+This code is well commented and should tell you everything that you need to know. But just
+in case the code takes in a maze file, and then makes a matrix out of the characters from 
+the file. It then creates a matrix of nodes, and an array of the nodes. The array is then
+passed into a Breadth first solver that places '.' in the matrix for the path backwards. It 
+then writes a text file that saves to Resources1 (you may have to refresh in order to see).
+
+We did not include our test cases because the assignment didn't state to do so. If
+they are needed we can send you them as soon as possible!
+
+Thank you!!
